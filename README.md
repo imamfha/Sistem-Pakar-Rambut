@@ -4,7 +4,7 @@ Proyek ini merupakan **Sistem Pakar** berbasis web sederhana yang dibuat menggun
 Aplikasi ini dapat membantu pengguna mengetahui kondisi rambut mereka serta memberikan saran perawatan yang sesuai.
 
 ```
-sistempakar-rambut-main/
+sistempakar-rambut/
 │── assets/        # File CSS, gambar, dll
 │── js/            # File JavaScript (logika sistem pakar)
 │── index.html     # Halaman utama
